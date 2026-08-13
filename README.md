@@ -14,7 +14,7 @@ Bilingual (English/Spanish) storefront for MateCaña Bodega — Breakfast & Lunc
 
 ## Update before launch
 
-The current phone number is **(917) 530-0000**. Add the exact store address, confirmed opening hours, final products, and final prices in `index.html`.
+The current phone number is **(347) 577-5999** and the address is **911 E 156th St, Bronx, NY 10455**. Add confirmed opening hours, final products, and final prices in `index.html`.
 
 ## Publish with GitHub Pages
 
